@@ -11,9 +11,9 @@ Unix Programming Project: Auction Server Implementation
 
 ## 프로젝트 구조
 /AuctionSystem
-├── server.c # 서버 프로그램: 경매 로직 및 UI 출력
-├── client.c # 클라이언트 프로그램: 입찰 입력
-├── README.md # 프로젝트 설명
+├── server.c      # 서버 프로그램: 경매 로직 및 UI 출력
+├── client.c      # 클라이언트 프로그램: 입찰 입력
+└── README.md     # 프로젝트 설명
 
 ---
 

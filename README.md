@@ -51,6 +51,7 @@ Unix Programming Project: Auction Server Implementation
 6. 경매 종료 조건:
    - 단독 최고 입찰자가 연속 라운드에서 유지될 경우
    - 서버에서 최종 **낙찰자와 금액** 출력
+   - **낙찰자에게 낙찰 소식을 전달함 (25.12.01 updated)**
 
 ---
 
